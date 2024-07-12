@@ -28,11 +28,6 @@ bld/
 [Oo]bj/
 [Ll]og/
 
-# Uncomment if you have tasks that create the project's static files in the wwwroot folder
-# wwwroot/
-
-# Uncomment if you have tasks that create the project's package files
-# packages/
 
 # Visual Studio profiler
 *.psess
@@ -47,6 +42,8 @@ bld/
 project.lock.json
 project.fragment.lock.json
 artifacts/
+bin/
+obj/
 
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
